@@ -1,3 +1,3 @@
 full descriptions in Plot1D.h
-examples : test.cpp
-running : root -l -b -q test.cpp
+examples : draw.cpp
+running : root -l -b -q draw.cpp
